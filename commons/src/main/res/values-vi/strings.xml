@@ -673,7 +673,7 @@
     <string name="faq_8_title_commons">Tại sao tôi nên nâng cấp lên phiên bản Pro?</string>
     <string name="faq_8_text_commons">Vì phiên bản ứng dụng của bạn không còn được cập nhật, các lỗi bạn có thể phát hiện sẽ không bao giờ được sửa. Cũng sẽ không có chức năng mới được thêm vào. Bạn có thể mua phiên bản Pro trên Google Play với một khoản tiền nhỏ.
         Đó là thanh toán một lần, có nghĩa là một khi bạn mua nó, bạn sẽ không bao giờ phải mua lại. Ngay cả sau khi nhận được một thiết bị mới. Nếu bạn không thích phiên bản Pro, bạn có thể gỡ cài đặt trong vòng vài giờ và bạn sẽ tự động lấy lại tiền.
-        Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hello@fossify.org và bạn sẽ nhận được nó.</string>
+        Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hey.easyapps@gmail.com và bạn sẽ nhận được nó.</string>
     <string name="notice">Ứng dụng này sử dụng các thư viện bên thứ ba sau đây để giúp tôi thực hiện dễ dàng hơn. Cảm ơn.</string>
     <string name="third_party_licences">Giấy phép bên thứ ba</string>
     <string name="kotlin_title">Kotlin (ngôn ngữ lập trình)</string>
@@ -699,6 +699,6 @@
     <string name="filters_title">Bộ lọc ảnh Android (bộ lọc hình ảnh)</string>
     <string name="gesture_views_title">Chế độ xem cử chỉ (hình ảnh có thể phóng to)</string>
     <string name="deprecated_app">THÔNG BÁO: Phiên bản của ứng dụng này không còn được duy trì, hãy tải phiên bản Pro tại https://play.google.com/store/apps/details?id=com.eadevs..xxx.pro</string>
-    <string name="pro_app_refund">Đừng quên rằng nếu bạn gỡ cài đặt bất kỳ ứng dụng phải trả tiền nào trong vòng 2 giờ, bạn sẽ tự động được hoàn lại tiền. Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hello@fossify.org và bạn sẽ nhận được nó.Thật dễ dàng đúng không :)</string>
+    <string name="pro_app_refund">Đừng quên rằng nếu bạn gỡ cài đặt bất kỳ ứng dụng phải trả tiền nào trong vòng 2 giờ, bạn sẽ tự động được hoàn lại tiền. Nếu bạn muốn hoàn lại tiền bất cứ lúc nào sau đó, chỉ cần liên hệ với chúng tôi tại hey.easyapps@gmail.com và bạn sẽ nhận được nó.Thật dễ dàng đúng không :)</string>
     <string name="developer_description">Một nhóm ứng dụng Android mã nguồn mở đơn giản với các tiện ích có thể tùy chỉnh, không có quảng cáo và các quyền không cần thiết.</string>
 </resources>

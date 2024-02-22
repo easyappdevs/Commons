@@ -62,9 +62,6 @@ class AboutActivity : ComponentActivity() {
                                 )
                             },
                             onInviteClick = ::onInviteClick,
-                            onContributorsClick = ::onContributorsClick,
-                            showDonate = resources.getBoolean(R.bool.show_donate_in_about) && showExternalLinks,
-                            onDonateClick = ::onDonateClick,
                             showInvite = showHelpUsSection,
                             showRateUs = showHelpUsSection
                         )
@@ -76,23 +73,12 @@ class AboutActivity : ComponentActivity() {
                                 onEmailClick(onEmailClickAlertDialogState::show)
                             })
                         }
-                    },
-                    socialSection = {
-                        if (showExternalLinks) {
-                            SocialSection(
-                                onGithubClick = ::onGithubClick,
-                                onRedditClick = ::onRedditClick,
-                                onTelegramClick = ::onTelegramClick
-                            )
-                        }
                     }
                 ) {
                     val (showWebsite, fullVersion) = showWebsiteAndFullVersion(resources, showExternalLinks)
                     OtherSection(
                         showMoreApps = showGoogleRelations,
                         onMoreAppsClick = ::launchMoreAppsFromUsIntent,
-                        showWebsite = showWebsite,
-                        onWebsiteClick = ::onWebsiteClick,
                         showPrivacyPolicy = showExternalLinks,
                         onPrivacyPolicyClick = ::onPrivacyPolicyClick,
                         onLicenseClick = ::onLicenseClick,
@@ -257,34 +243,6 @@ class AboutActivity : ComponentActivity() {
             type = "text/plain"
             startActivity(createChooser(this, getString(R.string.invite_via)))
         }
-    }
-
-    private fun onContributorsClick() {
-        val intent = Intent(applicationContext, ContributorsActivity::class.java)
-        startActivity(intent)
-    }
-
-
-    private fun onDonateClick() {
-        launchViewIntent(getString(R.string.donate_url))
-    }
-
-    private fun onGithubClick() {
-        launchViewIntent("https://github.com/FossifyOrg")
-    }
-
-    private fun onRedditClick() {
-        launchViewIntent("https://www.reddit.com/r/Fossify")
-    }
-
-
-    private fun onTelegramClick() {
-        launchViewIntent("https://t.me/Fossify")
-    }
-
-
-    private fun onWebsiteClick() {
-        launchViewIntent("https://www.fossify.org/")
     }
 
     private fun onPrivacyPolicyClick() {

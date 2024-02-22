@@ -30,13 +30,6 @@
 
     <application android:supportsRtl="true">
         <activity
-            android:name="com.eadevs.commons.activities.ContributorsActivity"
-            android:configChanges="orientation"
-            android:exported="false"
-            android:label="@string/contributors"
-            android:parentActivityName="com.eadevs.commons.activities.AboutActivity" />
-
-        <activity
             android:name="com.eadevs.commons.activities.FAQActivity"
             android:configChanges="orientation"
             android:exported="false"

@@ -800,7 +800,7 @@
     <string name="faq_8_title_commons">なぜPro版にアップグレードしたほうがいいのですか？</string>
     <string name="faq_8_text_commons">アプリのバージョンが更新されないので、アプリのバグが発見されても修復されません。新しい機能も追加されません。Pro版はGoogle Playで少額で販売されています。
         1回のみのお支払いとなりますので、一度購入されるとその後はお支払いいただく必要がなくなります。機種の変更を行った場合も同じです。Pro版がお好みでなかったら、購入して数時間以内にアンインストールすれば自動的に返金されます。
-        それよりもあとに払い戻しが必要な場合はこちらにご連絡ください。hello@fossify.org</string>
+        それよりもあとに払い戻しが必要な場合はこちらにご連絡ください。hey.easyapps@gmail.com</string>
     <string name="faq_9_title_commons">一度に複数のアイテムを選択する方法はありますか？</string>
     <string name="faq_9_text_commons">いくつかの方法があります。1つ目は、アイテムを長押しして選択モードを開始し、他のアイテムを短くタップして選択する方法です。2つ目は、パソコンのマウスでアイテムを選択するのと同じように、アイテムを長押しして選択モードを開始し、そのまま指を他のアイテムにドラッグして選択する方法です。3つ目は、1つ目のアイテムを長押ししてから別のアイテムを長押しする方法で、間にある全てのアイテムが選択されます。全てのアイテムを選択したい場合は、アイテムを長押ししてから、左上にあるアイテムカウンターをタップしてください。アイテムカウンターで全て選択をしたり、解除したりできます。</string>
     <string name="faq_10_title_commons">アプリを購入しましたが、違うデバイスでダウンロード出来ません。</string>
@@ -895,7 +895,7 @@
         <item quantity="other">試用期間の残りは %d 日です。</item>
     </plurals>
     <string name="deprecated_app">非推奨: このバージョンのアプリはメンテナンスが行われなくなります。こちらのURLからPro版を入手してください。https://play.google.com/store/apps/details?id=com.eadevs..xxx.pro</string>
-    <string name="pro_app_refund">どのアプリでも、購入後２時間以内にアンインストールすると自動的に払い戻しされることを覚えていてください。それ以降に払い戻しが必要な場合は、こちらにお問い合わせください。hello@fossify.org
+    <string name="pro_app_refund">どのアプリでも、購入後２時間以内にアンインストールすると自動的に払い戻しされることを覚えていてください。それ以降に払い戻しが必要な場合は、こちらにお問い合わせください。hey.easyapps@gmail.com
 お試ししやすいかと思います :)</string>
     <string name="developer_description">広告や不要な権限がなく、カスタマイズ可能なウィジェットを備えたシンプルな複数のオープンソースAndroidアプリ。</string>
 </resources>

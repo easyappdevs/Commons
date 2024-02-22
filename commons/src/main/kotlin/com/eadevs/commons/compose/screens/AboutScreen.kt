@@ -24,13 +24,11 @@ internal fun AboutScreen(
     goBack: () -> Unit,
     helpUsSection: @Composable () -> Unit,
     aboutSection: @Composable () -> Unit,
-    socialSection: @Composable () -> Unit,
     otherSection: @Composable () -> Unit,
 ) {
     SimpleColumnScaffold(title = stringResource(id = R.string.about), goBack = goBack) {
         aboutSection()
         helpUsSection()
-        socialSection()
         otherSection()
 //        SettingsListItem(text = stringResource(id = R.string.about_footer))
     }
@@ -40,11 +38,8 @@ internal fun AboutScreen(
 internal fun HelpUsSection(
     onRateUsClick: () -> Unit,
     onInviteClick: () -> Unit,
-    onContributorsClick: () -> Unit,
     showRateUs: Boolean,
     showInvite: Boolean,
-    showDonate: Boolean,
-    onDonateClick: () -> Unit,
 ) {
     SettingsGroup(title = {
         SettingsTitleTextComponent(text = stringResource(id = R.string.help_us), modifier = startingTitlePadding)
@@ -55,18 +50,6 @@ internal fun HelpUsSection(
         if (showInvite) {
             TwoLinerTextItem(text = stringResource(id = R.string.invite_friends), icon = R.drawable.ic_add_person_vector, click = onInviteClick)
         }
-        TwoLinerTextItem(
-            click = onContributorsClick,
-            text = stringResource(id = R.string.contributors),
-            icon = R.drawable.ic_face_vector
-        )
-        if (showDonate) {
-            TwoLinerTextItem(
-                click = onDonateClick,
-                text = stringResource(id = R.string.donate),
-                icon = R.drawable.ic_dollar_vector
-            )
-        }
         SettingsHorizontalDivider()
     }
 }
@@ -75,8 +58,6 @@ internal fun HelpUsSection(
 internal fun OtherSection(
     showMoreApps: Boolean,
     onMoreAppsClick: () -> Unit,
-    onWebsiteClick: () -> Unit,
-    showWebsite: Boolean,
     showPrivacyPolicy: Boolean,
     onPrivacyPolicyClick: () -> Unit,
     onLicenseClick: () -> Unit,
@@ -93,13 +74,7 @@ internal fun OtherSection(
                 icon = R.drawable.ic_heart_vector
             )
         }
-        if (showWebsite) {
-            TwoLinerTextItem(
-                click = onWebsiteClick,
-                text = stringResource(id = R.string.website),
-                icon = R.drawable.ic_link_vector
-            )
-        }
+
         if (showPrivacyPolicy) {
             TwoLinerTextItem(
                 click = onPrivacyPolicyClick,
@@ -148,53 +123,6 @@ internal fun AboutSection(
 }
 
 @Composable
-internal fun SocialSection(
-    onGithubClick: () -> Unit,
-    onRedditClick: () -> Unit,
-    onTelegramClick: () -> Unit
-) {
-    SettingsGroup(title = {
-        SettingsTitleTextComponent(text = stringResource(id = R.string.social), modifier = startingTitlePadding)
-    }) {
-        SocialText(
-            click = onGithubClick,
-            text = stringResource(id = R.string.github),
-            icon = R.drawable.ic_github_vector,
-            tint = SimpleTheme.colorScheme.onSurface
-        )
-        SocialText(
-            click = onRedditClick,
-            text = stringResource(id = R.string.reddit),
-            icon = R.drawable.ic_reddit_vector,
-        )
-        SocialText(
-            click = onTelegramClick,
-            text = stringResource(id = R.string.telegram),
-            icon = R.drawable.ic_telegram_vector,
-        )
-        SettingsHorizontalDivider()
-    }
-}
-
-@Composable
-internal fun SocialText(
-    text: String,
-    icon: Int,
-    tint: Color? = null,
-    click: () -> Unit
-) {
-    SettingsListItem(
-        click = click,
-        text = text,
-        icon = icon,
-        isImage = true,
-        tint = tint,
-        maxLines = 2,
-        overflow = TextOverflow.Ellipsis
-    )
-}
-
-@Composable
 internal fun TwoLinerTextItem(text: String, icon: Int, click: () -> Unit) {
     SettingsListItem(
         tint = SimpleTheme.colorScheme.onSurface,
@@ -216,29 +144,17 @@ private fun AboutScreenPreview() {
                 HelpUsSection(
                     onRateUsClick = {},
                     onInviteClick = {},
-                    onContributorsClick = {},
                     showRateUs = true,
                     showInvite = true,
-                    showDonate = true,
-                    onDonateClick = {}
                 )
             },
             aboutSection = {
                 AboutSection(setupFAQ = true, onFAQClick = {}, onEmailClick = {})
             },
-            socialSection = {
-                SocialSection(
-                    onGithubClick = {},
-                    onRedditClick = {},
-                    onTelegramClick = {}
-                )
-            }
         ) {
             OtherSection(
                 showMoreApps = true,
                 onMoreAppsClick = {},
-                onWebsiteClick = {},
-                showWebsite = true,
                 showPrivacyPolicy = true,
                 onPrivacyPolicyClick = {},
                 onLicenseClick = {},

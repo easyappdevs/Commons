@@ -32,8 +32,8 @@
     <!-- About -->
     <string name="two_string_placeholder">%1$s%2$s</string>
     <string name="my_website">\nhttps://fossify.org</string>
-    <string name="my_email">hello@fossify.org</string>
-    <string name="my_fake_email">noreply@fossify.org</string>
+    <string name="my_email">hey.easyapps@gmail.com</string>
+    <string name="my_fake_email">noreply@hey.easyapps@gmail.com</string>
     <string name="reddit">Reddit</string>
     <string name="telegram">Telegram</string>
     <string name="github">GitHub</string>
