@@ -298,7 +298,7 @@
     <string name="share_colors_success">色の更新に成功しました。新しいテーマ \'共有\' が追加されたので、今後はそちらから全てのアプリの色変更を行ってください。</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            この機能のロックを解除して開発者をサポートするには、<a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> アプリを購入してください。
+            この機能のロックを解除して開発者をサポートするには、<a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> アプリを購入してください。
         ]]>
     </string>
     <string name="light_theme">ライト</string>
@@ -744,7 +744,7 @@
     <string name="donate_please">
         <![CDATA[
             こんにちは<br><br>
-            アプリを楽しんでいただけているでしょうか。広告無しを続けるため、<a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a>アプリを購入し開発の力になってください。購入されれば、この表示も二度と出ません。 <br><br>
+            アプリを楽しんでいただけているでしょうか。広告無しを続けるため、<a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a>アプリを購入し開発の力になってください。購入されれば、この表示も二度と出ません。 <br><br>
             ありがとうございます！
         ]]>
     </string>
@@ -894,7 +894,7 @@
     <plurals name="trial_expires_days">
         <item quantity="other">試用期間の残りは %d 日です。</item>
     </plurals>
-    <string name="deprecated_app">非推奨: このバージョンのアプリはメンテナンスが行われなくなります。こちらのURLからPro版を入手してください。https://play.google.com/store/apps/details?id=org.fossify..xxx.pro</string>
+    <string name="deprecated_app">非推奨: このバージョンのアプリはメンテナンスが行われなくなります。こちらのURLからPro版を入手してください。https://play.google.com/store/apps/details?id=com.eadevs..xxx.pro</string>
     <string name="pro_app_refund">どのアプリでも、購入後２時間以内にアンインストールすると自動的に払い戻しされることを覚えていてください。それ以降に払い戻しが必要な場合は、こちらにお問い合わせください。hello@fossify.org
 お試ししやすいかと思います :)</string>
     <string name="developer_description">広告や不要な権限がなく、カスタマイズ可能なウィジェットを備えたシンプルな複数のオープンソースAndroidアプリ。</string>

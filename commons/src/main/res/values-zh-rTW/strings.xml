@@ -210,7 +210,7 @@
     <string name="share_colors_success">顏色更新成功。新增了一個名為 \'Shared\' 的新主題，以後請使用那個來更新全部應用程式顏色。</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            請購買 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 來解鎖此功能及支持開發者。謝謝!
+            請購買 <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> 來解鎖此功能及支持開發者。謝謝!
         ]]>
     </string>
     <string name="light_theme">明亮主題</string>
@@ -582,7 +582,7 @@
     <string name="donate_please">
         <![CDATA[
             哈囉 <br><br>
-            希望您喜愛這應用程式。 它不含廣告，所以請購買應用程式 <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> 來支持開發者，這對話框也不會再出現。<br><br>
+            希望您喜愛這應用程式。 它不含廣告，所以請購買應用程式 <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> 來支持開發者，這對話框也不會再出現。<br><br>
             感謝!
         ]]>
     </string>
@@ -669,6 +669,6 @@
     <string name="indicator_fast_scroll_title">Indicator Fast Scroll (滾動條上字母)</string>
     <string name="event_bus_title">Event Bus (應用程式溝通)</string>
     <string name="audio_record_view_title">Audio Record View (音訊視覺化)</string>
-    <string name="deprecated_app">已捨棄: 這版本的應用程式不再維護，在這取得專業版  https://play.google.com/store/apps/details?id=org.fossify..xxx.pro</string>
+    <string name="deprecated_app">已捨棄: 這版本的應用程式不再維護，在這取得專業版  https://play.google.com/store/apps/details?id=com.eadevs..xxx.pro</string>
     <string name="pro_app_refund">別忘記如果您在2小時內解除安裝任何付費應用程式，將會自動被退款。若您在之後隨時想退款，只要透過 @fossify.org 聯絡我們，即可收到退款。這麼一來輕鬆就能試用了 :)</string>
 </resources>

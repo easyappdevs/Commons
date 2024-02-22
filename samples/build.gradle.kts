@@ -62,7 +62,7 @@ android {
     sourceSets {
         getByName("main").java.srcDirs("src/main/kotlin")
     }
-    namespace = "org.fossify.commons.samples"
+    namespace = "com.eadevs.commons.samples"
 
     lint {
         disable.add("Instantiatable")

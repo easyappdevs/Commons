@@ -329,7 +329,7 @@
     <string name="share_colors_success">Koloreak ondo eguneratu dira. \'Shared\' deituriko gai berria gehitu da, erabili hori aplikazio guztien koloreak eguneratzeko etorkizunean.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Erosi <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a> funtzio hau desblokeatzeko eta garatzaileari laguntzeko. Eskerrik asko!
+            Erosi <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> funtzio hau desblokeatzeko eta garatzaileari laguntzeko. Eskerrik asko!
         ]]>
     </string>
     <string name="light_theme">Argia</string>

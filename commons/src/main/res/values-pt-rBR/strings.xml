@@ -305,7 +305,7 @@
     <string name="share_colors_success">Cores atualizadas com sucesso. Um novo tema chamado \'Compartilhado\' foi adicionado, use-o para atualizar as cores de todos os apps no futuro.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Por favor compre o <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Agradecimento Simple</a> para desbloquear esta função e apoiar o desenvolvimento. Obrigado!
+            Por favor compre o <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Agradecimento Simple</a> para desbloquear esta função e apoiar o desenvolvimento. Obrigado!
         ]]>
     </string>
     <string name="light_theme">Claro</string>
@@ -779,7 +779,7 @@
     <string name="donate_please">
         <![CDATA[
             Olá,<br><br>
-            Esperamos que esteja gostando do app. Ele não contém anúncios, então apoie o desenvolvimento adquirindo o <a href="https://play.google.com/store/apps/details?id=org.fossify.thankyou">Fossify Thank You</a>, ele também impede este diálogo de aparecer novamente.<br><br>
+            Esperamos que esteja gostando do app. Ele não contém anúncios, então apoie o desenvolvimento adquirindo o <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a>, ele também impede este diálogo de aparecer novamente.<br><br>
             Obrigado!
         ]]>
     </string>
@@ -928,7 +928,7 @@
         <item quantity="many">Seu teste acaba em %d dias.</item>
         <item quantity="other">Seu teste acaba em %d dias.</item>
     </plurals>
-    <string name="deprecated_app">OBSOLETO: Esta versão do app não recebe mais atualizações. Por favor obtenha a versão Pro em https://play.google.com/store/apps/details?id=org.fossify..xxx.pro</string>
+    <string name="deprecated_app">OBSOLETO: Esta versão do app não recebe mais atualizações. Por favor obtenha a versão Pro em https://play.google.com/store/apps/details?id=com.eadevs..xxx.pro</string>
     <string name="pro_app_refund">Não se esqueça de que se você desinstalar um aplicativo pago em menos de duas horas você receberá reembolsado(a) automaticamente. Se você precisar de um reembolso após isso, entre em contato conosco através hello@fossify.org. Isso torna tudo mais fácil se você quiser testar :)</string>
     <string name="developer_description">Um grupo de aplicativos simples, open source, para Android com widgets personalizados, sem anúncios nem permissões desnecessárias.</string>
     <string name="audio">Áudio</string>

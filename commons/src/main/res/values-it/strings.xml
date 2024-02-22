@@ -334,7 +334,7 @@
     <string name="app_icon_color_warning">Attenzione: alcuni launcher potrebbero non gestire correttamente la personalizzazione dell\'icona dell\'app. Se l\'icona scompare, prova ad avviare l\'applicazione tramite Google Play o un widget, se accessibile. Dopo l\'avvio, ripristina il colore predefinito dell\'icona verde #106D1F. In casi estremi, potrebbe essere necessario reinstallare l\'applicazione.</string>
     <string name="share_colors_success">Colori aggiornati correttamente. È stato aggiunto un nuovo tema chiamato \'Condiviso\', usare questo per aggiornare tutti i colori dell\'app in futuro.</string>
     <string name="shared_theme_note">Nota che anche se usi la versione Pro dell\'app, per motivi tecnici è necessario Grazie Fossify. Si occupa della sincronizzazione dei colori.</string>
-    <string name="purchase_thank_you">Acquista &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Grazie Fossify&lt;/a&gt; per sbloccare questa funzione e supportare lo sviluppo. Grazie!</string>
+    <string name="purchase_thank_you">Acquista &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Grazie Fossify&lt;/a&gt; per sbloccare questa funzione e supportare lo sviluppo. Grazie!</string>
     <string name="light_theme">Chiaro</string>
     <string name="dark_theme">Scuro</string>
     <string name="auto_light_dark_theme">Auto chiaro / scuro</string>
@@ -858,9 +858,9 @@
     <string name="additional_info">Informazioni aggiuntive</string>
     <string name="app_version">Versione app: %s</string>
     <string name="device_os">SO dispositivo: %s</string>
-    <string name="donate_please">Ciao,&lt;br&gt;&lt;br&gt; spero che tu sia contento dell\'app. Non contiene pubblicità, supporta lo sviluppo acquistando l\'app &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Grazie Fossify&lt;/a&gt;. Inoltre questa finestra non verrà più mostrata.&lt;br&gt;&lt;br&gt; Grazie!</string>
-    <string name="donate_new">Ciao,&lt;br&gt;&lt;br&gt;spero che l\'app ti piaccia. Non contiene pubblicità e non raccogliamo nemmeno i tuoi dati, sostieni il suo sviluppo acquistando &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Grazie Fossify&lt;/a&gt;. Avrai anche tutte le funzionalità dell\'app sbloccate, inclusa la personalizzazione del colore.&lt;br&gt;&lt;br&gt;Grazie!</string>
-    <string name="donate_short">Per favore, sostienici acquistando &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Grazie Fossify&lt;/a&gt;, sbloccherà anche tutte le funzionalità dell\'app, inclusa la personalizzazione del colore.</string>
+    <string name="donate_please">Ciao,&lt;br&gt;&lt;br&gt; spero che tu sia contento dell\'app. Non contiene pubblicità, supporta lo sviluppo acquistando l\'app &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Grazie Fossify&lt;/a&gt;. Inoltre questa finestra non verrà più mostrata.&lt;br&gt;&lt;br&gt; Grazie!</string>
+    <string name="donate_new">Ciao,&lt;br&gt;&lt;br&gt;spero che l\'app ti piaccia. Non contiene pubblicità e non raccogliamo nemmeno i tuoi dati, sostieni il suo sviluppo acquistando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Grazie Fossify&lt;/a&gt;. Avrai anche tutte le funzionalità dell\'app sbloccate, inclusa la personalizzazione del colore.&lt;br&gt;&lt;br&gt;Grazie!</string>
+    <string name="donate_short">Per favore, sostienici acquistando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Grazie Fossify&lt;/a&gt;, sbloccherà anche tutte le funzionalità dell\'app, inclusa la personalizzazione del colore.</string>
     <string name="purchase">Acquista</string>
     <string name="update_thank_you">Aggiorna Grazie Fossify alla versione più recente</string>
     <string name="before_asking_question_read_faq">Prima di fare una domanda, controlla le impostazioni dell\'app e le domande frequenti. Magari si trova la soluzione.</string>
@@ -874,7 +874,7 @@
     <string name="thank_you">Grazie</string>
     <string name="widget_locked_pro">Il widget è bloccato.
 \nSi prega di aggiornare alla versione Pro per sbloccarlo.</string>
-    <string name="features_locked">Questa funzione è bloccata, acquista &lt;a href=https://play.google.com/store/apps/details?id=org.fossify.thankyou&gt;Grazie Fossify&lt;/a&gt; per sbloccare l\'app completa.&lt;br&gt;&lt;br&gt;Si tratta di un pagamento unico e se non sarai soddisfatto, potremo rimborsarti.</string>
+    <string name="features_locked">Questa funzione è bloccata, acquista &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Grazie Fossify&lt;/a&gt; per sbloccare l\'app completa.&lt;br&gt;&lt;br&gt;Si tratta di un pagamento unico e se non sarai soddisfatto, potremo rimborsarti.</string>
     <string name="new_app">
         <![CDATA[
             Ehi,<br><br>
@@ -1069,7 +1069,7 @@
         <item quantity="many">La prova scade tra %d giorno.</item>
         <item quantity="other">La prova scade tra %d giorni.</item>
     </plurals>
-    <string name="deprecated_app">DEPRECATA: Questa versione dell\'app non è più supportata, ottieni la versione Pro a https://play.google.com/store/apps/details?id=org.fossify..xxx.pro</string>
+    <string name="deprecated_app">DEPRECATA: Questa versione dell\'app non è più supportata, ottieni la versione Pro a https://play.google.com/store/apps/details?id=com.eadevs..xxx.pro</string>
     <string name="pro_app_refund">Non dimenticarti che se disinstalli qualsiasi app a pagamento entro le due ore dall\'acquisto, verrai automaticamente rimborsato. Se vuoi essere rimborsato quando vuoi dopo le due ore, puoi contattarci a hello@fossify.org. In questo modo puoi facilmente provare l\'app :)</string>
     <string name="developer_description">Un gruppo di app Android semplici, open source, con widget personalizzabili, senza pubblicità ed autorizzazioni inutili.</string>
     <string name="password">Password</string>
