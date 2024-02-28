@@ -69,7 +69,7 @@ val md_blue_300 = Color(0xFF64B5F6)
 val md_blue_400 = Color(0xFF42A5F5)
 val md_blue_500 = Color(0xFF2196F3)
 val md_blue_600 = Color(0xFF1E88E5)
-val md_blue_700 = Color(0xFF1976D2)
+val md_blue_700 = Color(0xFF1A73E8)
 val md_blue_800 = Color(0xFF1565C0)
 val md_blue_900 = Color(0xFF0D47A1)
 
