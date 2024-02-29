@@ -1045,7 +1045,7 @@
     <string name="translation_english">Angličtina</string>
     <string name="translation_romanian">Rumunština</string>
     <string name="translation_russian">Ruština</string>
-    <string name="faq_6_text_commons">Tento problém nastane, když váš launcher plně nepodporuje přizpůsobení ikony. Zkuste spustit aplikaci skrze Google Play nebo widget, pokud je dostupný. Po spuštění obnovte výchozí zelenou barvu ikony #106D1F. V extrémních případech může být potřeba aplikaci přeinstalovat.</string>
+    <string name="faq_6_text_commons">Tento problém nastane, když váš launcher plně nepodporuje přizpůsobení ikony. Zkuste spustit aplikaci skrze Google Play nebo widget, pokud je dostupný. Po spuštění obnovte výchozí zelenou barvu ikony #1A73E8. V extrémních případech může být potřeba aplikaci přeinstalovat.</string>
     <string name="translation_slovenian">Slovinština</string>
     <string name="translation_serbian">Srbština</string>
     <string name="why_upgrade_pro_version">Pro</string>
@@ -1099,7 +1099,7 @@
     <string name="translation_polish">Polština</string>
     <string name="translation_portuguese">Portugalština</string>
     <string name="why_upgrade_file_compression">Podpora komprimace souborů</string>
-    <string name="app_icon_color_warning">Upozornění: Některé launchery nemusejí správně zvládnout přizpůsobení ikon aplikací. Pokud ikona zmizí, zkuste aplikaci spustit přes Google Play nebo widget, pokud je dostupný. Po spuštění obnovte výchozí zelenou barvu ikony #106D1F. V extrémních případech může být nutné aplikaci znovu nainstalovat.</string>
+    <string name="app_icon_color_warning">Upozornění: Některé launchery nemusejí správně zvládnout přizpůsobení ikon aplikací. Pokud ikona zmizí, zkuste aplikaci spustit přes Google Play nebo widget, pokud je dostupný. Po spuštění obnovte výchozí zelenou barvu ikony #1A73E8. V extrémních případech může být nutné aplikaci znovu nainstalovat.</string>
     <string name="ok">OK</string>
     <string name="pin">PIN</string>
     <string name="pin_must_be_4_digits_long">PIN musí být dlouhý alespoň 4 znaky</string>

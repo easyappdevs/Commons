@@ -893,7 +893,7 @@
     <string name="send_email">Bidali posta elektronikoa</string>
     <string name="add_contact">Gehitu kontaktua</string>
     <string name="genre">Generoa</string>
-    <string name="app_icon_color_warning">Kontuz: baliteke abiarazle batzuek aplikazioaren ikonoen pertsonalizazioa behar bezala ez kudeatzea. Ikonoa desagertzen bada, saiatu aplikazioa abiarazten Google Play edo widget baten bidez, eskuragarri badago. Abiarazi ondoren, lehenetsi #106D1F ikono berdearen kolore lehenetsia. Muturreko kasuetan, baliteke aplikazioa berriro instalatzea beharrezkoa izatea.</string>
+    <string name="app_icon_color_warning">Kontuz: baliteke abiarazle batzuek aplikazioaren ikonoen pertsonalizazioa behar bezala ez kudeatzea. Ikonoa desagertzen bada, saiatu aplikazioa abiarazten Google Play edo widget baten bidez, eskuragarri badago. Abiarazi ondoren, lehenetsi #1A73E8 ikono berdearen kolore lehenetsia. Muturreko kasuetan, baliteke aplikazioa berriro instalatzea beharrezkoa izatea.</string>
     <string name="error">Errorea: %s</string>
     <string name="notifications">Jakinarazpenak</string>
     <string name="zero">Zero</string>

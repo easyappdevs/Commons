@@ -1048,7 +1048,7 @@
     <string name="saturday_letter">S</string>
     <string name="why_upgrade_pro_version">Pro</string>
     <string name="why_upgrade_many_other_improvements">Mnoga druga poboljšanja</string>
-    <string name="faq_6_text_commons">Ovaj problem nastaje kada tvoj pokretač ne podržava u potpunosti prilagođavanje ikona. Pokušaj pokrenuti aplikaciju putem Google Playa ili widgeta, ako je dostupan. Nakon pokretanja vrati standardnu zelenu boju ikone #106D1F. U ekstremnim slučajevima može biti potrebno ponovo instalirati aplikaciju.</string>
+    <string name="faq_6_text_commons">Ovaj problem nastaje kada tvoj pokretač ne podržava u potpunosti prilagođavanje ikona. Pokušaj pokrenuti aplikaciju putem Google Playa ili widgeta, ako je dostupan. Nakon pokretanja vrati standardnu zelenu boju ikone #1A73E8. U ekstremnim slučajevima može biti potrebno ponovo instalirati aplikaciju.</string>
     <string name="date_added">Datum dodavanja</string>
     <string name="pin_must_be_4_digits_long">PIN mora imati najmanje 4 znamenke</string>
     <string name="purchase_simple_thank_you">Kupi Fossify hvala</string>
@@ -1103,7 +1103,7 @@
     <string name="sms_messenger_short">SMS Messenger</string>
     <string name="faq_7_text_commons">Plaćanjima u potpunosti upravlja Google. Njihov sustav povremeno ima kvarove. Jednostavno izbrišite predmemoriju aplikacije Google Play i ponovo pokrenite uređaj. Nakon toga pokušajte ponovo preuzeti aplikaciju.</string>
     <string name="faq_10_title_commons">Kupio/la sam aplikaciju, ali je ne mogu preuzeti na drugom uređaju.</string>
-    <string name="app_icon_color_warning">Oprez: Određeni pokretači možda neće ispravno rukovati prilagodbom ikone aplikacije. Ako ikona nestane, pokušaj pokrenuti aplikaciju putem Google Playa ili widgeta. Nakon pokretanja obnovi standardnu zelenu boju ikone #106D1F. U ekstremnim slučajevima može biti potrebno ponovo instalirati aplikaciju.</string>
+    <string name="app_icon_color_warning">Oprez: Određeni pokretači možda neće ispravno rukovati prilagodbom ikone aplikacije. Ako ikona nestane, pokušaj pokrenuti aplikaciju putem Google Playa ili widgeta. Nakon pokretanja obnovi standardnu zelenu boju ikone #1A73E8. U ekstremnim slučajevima može biti potrebno ponovo instalirati aplikaciju.</string>
     <string name="shared_theme_note">Imaj na umu da iako koristiš Pro verziju aplikacije, još uvijek trebaš Fossify hvala iz tehničkih razloga. Potrebna je za sinkronizaciju boja.</string>
     <string name="faq_10_text_commons">Pokušaj izbrisati predmemoriju aplikacije Google Play i ponovo pokrenuti uređaj. To je neka greška Google Playa, koja nije povezana sa samom aplikacijom.</string>
     <string name="trial_start_description">Hvala što koristiš našu aplikaciju. Ovu otključanu verziju možeš koristiti <font color="#FFFFFF">%d dana</font>. Nakon što probno razdoblje završi, razmisli o nadogradnji na Pro verziju. Ona sadrži velik broj funkcija, moderan dizajn, bez oglasa i mnoga druga poboljšanja.

@@ -2,8 +2,8 @@ package com.eadevs.commons.compose.theme
 
 import androidx.compose.ui.graphics.Color
 
-val color_primary = Color(0xFF106D1F)
-val color_primary_dark = Color(0xFF89CA8D)
+val color_primary = Color(0xFF1A73E8)
+val color_primary_dark = Color(0xFF1462AE)
 val color_accent = color_primary
 
 val pressed_item_foreground = Color(0x08000000)
@@ -191,7 +191,7 @@ val md_green_500 = Color(0xFF72C84E)
 val md_green_600 = Color(0xFF64B846)
 val md_green_700 = Color(0xFF50A43B)
 val md_green_800 = Color(0xFF3C8F32)
-val md_green_900 = Color(0xFF106D1F)
+val md_green_900 = Color(0xFF1A73E8)
 
 val md_green_100_dark = Color(0xFFACDAAE)
 val md_green_200_dark = Color(0xFF89CA8D)

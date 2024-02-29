@@ -335,7 +335,7 @@
     <string name="undo_changes_confirmation">Voulez-vous vraiment annuler vos modifications \?</string>
     <string name="cannot_be_undone">Cette action ne peut pas être annulée.</string>
     <string name="save_before_closing">Certaines modifications ne sont pas enregistrées. Voulez-vous les enregistrer avant de quitter \?</string>
-    <string name="app_icon_color_warning">Attention : Certains lanceurs peuvent ne pas manipuler correctement la personnalisation de l\'icône d\'application. Si l\'icône disparaît, essayez de lancer l\'application via Google Play ou un widget, si accessible. Après le lancement, restaurer la couleur d\'icône verte par défaut #106D1F. Dans les cas extrêmes, réinstaller l\'application peut être nécessaire.</string>
+    <string name="app_icon_color_warning">Attention : Certains lanceurs peuvent ne pas manipuler correctement la personnalisation de l\'icône d\'application. Si l\'icône disparaît, essayez de lancer l\'application via Google Play ou un widget, si accessible. Après le lancement, restaurer la couleur d\'icône verte par défaut #1A73E8. Dans les cas extrêmes, réinstaller l\'application peut être nécessaire.</string>
     <string name="share_colors_success">Actualisation des couleurs réussie. Un nouveau thème nommé \"Partagé\" a été ajouté. Veuillez utiliser dorénavant ce thème pour actualiser les couleurs de toutes les applications.</string>
     <string name="purchase_thank_you">Veuillez acheter &lt;a href=https ://play.google.com/store/apps/details ?id=com.eadevs.thankyou&gt;Fossify Merci&lt;/a&gt; pour déverrouiller cette fonction et soutenir le développement. Merci !</string>
     <string name="light_theme">Clair</string>
@@ -1108,7 +1108,7 @@
     <string name="features_locked">Cette fonctionnalité est verrouillée. Veuillez acheter &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Merci&lt;/a&gt; pour avoir déverrouillé l\'application complète.&lt;br &gt;&lt;br&gt;Il s\'agit d\'un paiement unique et si vous n\'êtes pas satisfait, nous pouvons vous rembourser.</string>
     <string name="contacts_short">Contacts</string>
     <string name="notes_short">Notes</string>
-    <string name="faq_6_text_commons">Ce problème survient lorsque votre lanceur ne prend pas totalement en charge la personnalisation des icônes. Essayez de lancer l\'application via Google Play ou un widget, s\'il est accessible. Après le lancement, rétablissez la couleur verte par défaut de l\'icône #106D1F. Dans les cas extrêmes, il peut être nécessaire de réinstaller l\'application.</string>
+    <string name="faq_6_text_commons">Ce problème survient lorsque votre lanceur ne prend pas totalement en charge la personnalisation des icônes. Essayez de lancer l\'application via Google Play ou un widget, s\'il est accessible. Après le lancement, rétablissez la couleur verte par défaut de l\'icône #1A73E8. Dans les cas extrêmes, il peut être nécessaire de réinstaller l\'application.</string>
     <string name="translation_bengali">Bengali</string>
     <string name="translation_breton">Breton</string>
     <string name="translation_hindi">Hindi</string>

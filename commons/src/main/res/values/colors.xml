@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="color_primary">@color/md_green_900</color>
-    <color name="color_primary_dark">@color/md_green_200_dark</color>
+    <color name="color_primary">@color/md_blue_700</color>
+    <color name="color_primary_dark">@color/md_blue_700_dark</color>
     <color name="color_accent">@color/color_primary</color>
 
     <color name="pressed_item_foreground">#08000000</color>
@@ -203,15 +203,15 @@
     <color name="md_deep_purple_800_dark">#371F7F</color>
     <color name="md_deep_purple_900_dark">#251470</color>
 
-    <color name="md_green_100">#FFD6EFCA</color>
-    <color name="md_green_200">#FFBAE4A8</color>
-    <color name="md_green_300">#FF9ED984</color>
-    <color name="md_green_400">#FF88D168</color>
-    <color name="md_green_500">#FF72C84E</color>
-    <color name="md_green_600">#FF64B846</color>
-    <color name="md_green_700">#FF50A43B</color>
-    <color name="md_green_800">#FF3C8F32</color>
-    <color name="md_green_900">#FF106D1F</color>
+    <color name="md_green_100">#C8E6C9</color>
+    <color name="md_green_200">#A5D6A7</color>
+    <color name="md_green_300">#81C784</color>
+    <color name="md_green_400">#66BB6A</color>
+    <color name="md_green_500">#4CAF50</color>
+    <color name="md_green_600">#43A047</color>
+    <color name="md_green_700">#388E3C</color>
+    <color name="md_green_800">#2E7D32</color>
+    <color name="md_green_900">#1B5E20</color>
 
     <color name="md_green_100_dark">#ACDAAE</color>
     <color name="md_green_200_dark">#89CA8D</color>
