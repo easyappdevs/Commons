@@ -570,7 +570,7 @@ open class BaseConfig(val context: Context) {
         set(selected) = prefs.edit().putBoolean(FAVORITES_CUSTOM_ORDER_SELECTED, selected).apply()
 
     var viewType: Int
-        get() = prefs.getInt(VIEW_TYPE, VIEW_TYPE_LIST)
+        get() = prefs.getInt(VIEW_TYPE, VIEW_TYPE_GRID)
         set(viewType) = prefs.edit().putInt(VIEW_TYPE, viewType).apply()
 
     var contactsGridColumnCount: Int
