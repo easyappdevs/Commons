@@ -77,8 +77,6 @@ class AboutActivity : ComponentActivity() {
                 ) {
                     val (showWebsite, fullVersion) = showWebsiteAndFullVersion(resources, showExternalLinks)
                     OtherSection(
-                        showMoreApps = showGoogleRelations,
-                        onMoreAppsClick = ::launchMoreAppsFromUsIntent,
                         showPrivacyPolicy = showExternalLinks,
                         onPrivacyPolicyClick = ::onPrivacyPolicyClick,
                         onLicenseClick = ::onLicenseClick,

@@ -3,7 +3,6 @@ package com.eadevs.commons.compose.screens
 import androidx.compose.foundation.layout.padding
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -56,8 +55,6 @@ internal fun HelpUsSection(
 
 @Composable
 internal fun OtherSection(
-    showMoreApps: Boolean,
-    onMoreAppsClick: () -> Unit,
     showPrivacyPolicy: Boolean,
     onPrivacyPolicyClick: () -> Unit,
     onLicenseClick: () -> Unit,
@@ -67,14 +64,6 @@ internal fun OtherSection(
     SettingsGroup(title = {
         SettingsTitleTextComponent(text = stringResource(id = R.string.other), modifier = startingTitlePadding)
     }) {
-        if (showMoreApps) {
-            TwoLinerTextItem(
-                click = onMoreAppsClick,
-                text = stringResource(id = R.string.more_apps_from_us),
-                icon = R.drawable.ic_heart_vector
-            )
-        }
-
         if (showPrivacyPolicy) {
             TwoLinerTextItem(
                 click = onPrivacyPolicyClick,
@@ -153,8 +142,6 @@ private fun AboutScreenPreview() {
             },
         ) {
             OtherSection(
-                showMoreApps = true,
-                onMoreAppsClick = {},
                 showPrivacyPolicy = true,
                 onPrivacyPolicyClick = {},
                 onLicenseClick = {},
