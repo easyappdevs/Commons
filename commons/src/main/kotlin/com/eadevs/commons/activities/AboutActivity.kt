@@ -18,7 +18,10 @@ import com.eadevs.commons.R
 import com.eadevs.commons.compose.alert_dialog.rememberAlertDialogState
 import com.eadevs.commons.compose.extensions.enableEdgeToEdgeSimple
 import com.eadevs.commons.compose.extensions.rateStarsRedirectAndThankYou
-import com.eadevs.commons.compose.screens.*
+import com.eadevs.commons.compose.screens.AboutScreen
+import com.eadevs.commons.compose.screens.AboutSection
+import com.eadevs.commons.compose.screens.HelpUsSection
+import com.eadevs.commons.compose.screens.OtherSection
 import com.eadevs.commons.compose.theme.AppThemeSurface
 import com.eadevs.commons.dialogs.ConfirmationAdvancedAlertDialog
 import com.eadevs.commons.dialogs.RateStarsAlertDialog
@@ -245,7 +248,7 @@ class AboutActivity : ComponentActivity() {
 
     private fun onPrivacyPolicyClick() {
         val appId = baseConfig.appId.removeSuffix(".debug").removeSuffix(".pro").removePrefix("com.eadevs.")
-        val url = "https://www.fossify.org/policy/$appId"
+        val url = "https://sites.google.com/view/eadevs$appId"
         launchViewIntent(url)
     }
 
