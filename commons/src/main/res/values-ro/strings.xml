@@ -271,7 +271,7 @@
     <string name="share_colors_success">Culorile au fost actualizate cu succes. A fost adăugată o nouă temă numită \'Partajată\', vă rugăm să o folosiți pentru actualizarea tuturor culorilor aplicației în viitor.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Vă rugăm cumpăraţi <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> pentru a debloca această funcţie şi pentru a sprijini dezvoltatorii. Vă mulţumim!
+            Vă rugăm cumpăraţi <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> pentru a debloca această funcţie şi pentru a sprijini dezvoltatorii. Vă mulţumim!
         ]]>
     </string>
     <string name="light_theme">Luminoasă</string>
@@ -721,7 +721,7 @@
     <string name="donate_please">
         <![CDATA[
             Salut,<br><br>
-            Sper că vă bucurați de aplicație. Nu conține reclame, vă rugăm să sprijiniți dezvoltarea sa prin achiziționarea aplicației <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a>, de asemenea, va împiedica ca acest dialog să mais apară din nou.<br><br>
+            Sper că vă bucurați de aplicație. Nu conține reclame, vă rugăm să sprijiniți dezvoltarea sa prin achiziționarea aplicației <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a>, de asemenea, va împiedica ca acest dialog să mais apară din nou.<br><br>
             Thank you!
         ]]>
     </string>
@@ -772,7 +772,6 @@
     <string name="faq_1_title_commons">Cum se face că nu văd widgetul corespunzător aplicaţiei în lista de widgeturi?</string>
     <string name="faq_1_text_commons">Cel mai probabil se datorează faptului că ați mutat aplicația pe un card SD. Este o limitare a sistemului Android care ascunde widget-urile aplicației.
         Singura soluție este să mutați aplicația înapoi în memoria internă prin intermediul setărilor dispozitivului.</string>
-    <string name="faq_2_title_commons">Vreau să te sprijin, dar nu pot dona bani. Pot să fac altceva?</string>
     <string name="faq_2_text_commons">
         <![CDATA[
             Da, bineînțeles. Puteți să răspândiți vestea despre aplicațiile Simple sau să oferiți feedback și evaluări bune pe magaziul Google Play. De asemenea, puteți ajuta prin traducerea aplicațiilor într-o limbă nouă sau doar prin actualizarea unor traduceri existente.
@@ -982,7 +981,7 @@
     <string name="deletion_confirmation_short">Ștergeți %s?</string>
     <string name="pin">PIN</string>
     <string name="password">Parola</string>
-    <string name="purchase_simple_thank_you">Achiziționați Mulțumesc Fossify (Thank You)</string>
+    <string name="purchase_simple_thank_you">Achiziționați Mulțumesc Easy Apps (Thank You)</string>
     <string name="general_settings">General</string>
     <string name="text">Text</string>
 </resources>

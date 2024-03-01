@@ -888,7 +888,6 @@
     <string name="before_asking_question">Mielőtt feltenne egy kérdést, először olvassa el ezt:</string>
     <string name="faq_1_title_commons">Miért nem látom az alkalmazás modulját a modulok között\?</string>
     <string name="faq_1_text_commons">Valószínűleg azért, mert áthelyezte az alkalmazást egy SD-kártyára. Van egy androidos rendszerkorlátozás, amely ebben az esetben elrejti az adott alkalmazás moduljait. Az egyetlen megoldás az alkalmazás visszahelyezése a belső tárolóra az eszköz beállításaiban.</string>
-    <string name="faq_2_title_commons">Szeretném támogatni, de nem tudok pénzt adományozni. Van még valami, amit tehetek\?</string>
     <string name="faq_3_title_commons">Tévedésből töröltem néhány fájlt, hogyan tudom helyreállítani\?</string>
     <string name="faq_3_text_commons">Sajnos nem lehet. A fájlok azonnal törlődnek a megerősítő párbeszédablak után, ott nem érhető el Lomtár.</string>
     <string name="faq_4_title_commons">Nem tetszik a modul színe, meg tudom változtatni őket\?</string>

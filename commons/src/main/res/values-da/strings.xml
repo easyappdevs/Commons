@@ -325,7 +325,7 @@
     <string name="share_colors_success">Farverne er ændret. Et nyt udseende kaldet \"Tilpasset\" er tilføjet, brug det ved opdatering af alle app-farver fremover.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Køb <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> for at låse denne funktion op og understøtte appens udvikling. Tak!
+            Køb <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> for at låse denne funktion op og understøtte appens udvikling. Tak!
         ]]>
     </string>
     <string name="light_theme">Lys</string>
@@ -762,7 +762,7 @@
     <string name="donate_please">
         <![CDATA[
             Hej<br><br>
-            Håber du kan lide denne app. Den indeholder ingen reklamer, så vær sød at købe appen <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a>, som også vil forhindre at denne besked vises igen.<br><br>
+            Håber du kan lide denne app. Den indeholder ingen reklamer, så vær sød at købe appen <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a>, som også vil forhindre at denne besked vises igen.<br><br>
             På forhånd tak!
         ]]>
     </string>
@@ -814,7 +814,6 @@
     <string name="before_asking_question">Inden du stiller et spørgsmål bedes du først læse</string>
     <string name="faq_1_title_commons">Hvorfor kan jeg ikke se denne app\'s widget på listen med widgets?</string>
     <string name="faq_1_text_commons">Det er sikkert fordi du har flyttet appen til et SD-kort. Der er en begrænsning i Androidsystemet der i så fald skjuler appens widget. Eneste løsning er at flytte appen tilbage til det interne lager via indstillingerne på din enhed.</string>
-    <string name="faq_2_title_commons">Jeg vil gerne støtte dig, men jeg kan ikke donere penge. Er der andet jeg kan gøre?</string>
     <string name="faq_2_text_commons">
         <![CDATA[
             Ja, selvfølgelig. Du kan sprede budskabet om vores apps eller give god feedback og gode vurderinger. Du kan også hjælpe ved at oversætte apps til et nyt sprog eller blot opdatere nogle af de eksisterende oversættelser.

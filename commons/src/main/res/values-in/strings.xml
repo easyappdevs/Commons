@@ -775,7 +775,6 @@
     <string name="faq_1_title_commons">Kenapa saya tidak melihat widget aplikasi ini di daftar widget?</string>
     <string name="faq_1_text_commons">Kemungkinan besar karena anda memindahkan aplikasi ke kartu SD. Ada keterbatasan sistem Android yang akan menyembunyikan widget aplikasi
         karena hal tersebut. Satu-satunya solusi adalah memindahkannya kembali ke Penyimpanan Internal melalui pengaturan perangkat anda.</string>
-    <string name="faq_2_title_commons">Saya ingin mendukung Anda, tetapi saya tidak bisa berdonasi. Adakah cara lain yang bisa saya lakukan?</string>
     <string name="faq_3_title_commons">Saya tidak sengaja menghapus berkas, bagaimana saya memulihkannya?</string>
     <string name="faq_3_text_commons">Sayangnya, Anda tidak bisa. File dihapus secara instan setelah dialog konfirmasi, tidak ada tempat sampah yang tersedia.</string>
     <string name="faq_4_title_commons">Saya tidak suka warna widget, bisakah saya mengubahnya?</string>

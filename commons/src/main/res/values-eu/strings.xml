@@ -329,7 +329,7 @@
     <string name="share_colors_success">Koloreak ondo eguneratu dira. \'Shared\' deituriko gai berria gehitu da, erabili hori aplikazio guztien koloreak eguneratzeko etorkizunean.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Erosi <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> funtzio hau desblokeatzeko eta garatzaileari laguntzeko. Eskerrik asko!
+            Erosi <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> funtzio hau desblokeatzeko eta garatzaileari laguntzeko. Eskerrik asko!
         ]]>
     </string>
     <string name="light_theme">Argia</string>
@@ -864,7 +864,6 @@
     <string name="before_asking_question">Galdera bat egin aurretik, irakurri</string>
     <string name="faq_1_title_commons">Zer dela eta ez dut aplikazioen trepeta hau trepeten zerrendan ikusten\?</string>
     <string name="faq_1_text_commons">Litekeena da aplikazioa SD txartelera eraman duzulako. Kasu horretan, emandako aplikazioen trepetak ezkutatzen dituen Android sistemaren muga bat dago. Irtenbide bakarra zure gailuaren ezarpenen bidez aplikazioa Barne Biltegira eramatea da.</string>
-    <string name="faq_2_title_commons">Lagundu nahi zaitut, baina ezin dut dirurik eman. Ba al dago beste ezer egin dezaket\?</string>
     <string name="notice">Aplikazio honk hurrengo hirugarrenen liburutegi hauek erabiltzen ditu, nire bizitza errazago egiteko. Eskerrik asko.</string>
     <string name="third_party_licences">Hirugarrenen lizentziak</string>
     <string name="kotlin_title">Kotlin (programazio-hizkuntza)</string>
@@ -900,7 +899,7 @@
     <string name="one">Bat</string>
     <string name="block_contact">Blokeatu kontaktua</string>
     <string name="exif">EXIF</string>
-    <string name="apply_to_all_apps">Aplikatu koloreak Fossify aplikazio guztietan</string>
+    <string name="apply_to_all_apps">Aplikatu koloreak Easy Apps aplikazio guztietan</string>
     <string name="shared_theme_note">Kontuan izan aplikazioaren Pro bertsioa erabiltzen ari zaren arren, Fossify-ri Eskerrak behar duzula arrazoi teknikoengatik. Koloreen sinkronizazioaz arduratzen da.</string>
     <string name="auto_theme">Automatikoa</string>
     <string name="system_default">Sistema lehenetsia</string>

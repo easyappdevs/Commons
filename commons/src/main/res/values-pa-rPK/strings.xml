@@ -673,7 +673,6 @@
     <string name="frequently_asked_questions">سوال تے جواب</string>
     <string name="faq_1_title_commons">How come I don\'t see this apps widget on the list of widgets\?</string>
     <string name="faq_1_text_commons">It is most likely because you moved the app on an SD card. There is an Android system limitation which hides the given app widgets in that case. The only solution is to move the app back onto the Internal Storage via your device settings.</string>
-    <string name="faq_2_title_commons">I want to support you, but I cannot donate money. Is there anything else I can do\?</string>
     <string name="faq_3_title_commons">I deleted some files by mistake, how can I recover them\?</string>
     <string name="faq_4_title_commons">I don\'t like the widget colors, can I change them\?</string>
     <string name="faq_5_title_commons">Can I somehow restore deleted files\?</string>

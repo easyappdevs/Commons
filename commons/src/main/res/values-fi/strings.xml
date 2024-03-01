@@ -332,7 +332,7 @@
     <string name="share_colors_success">Värit päivitetty. Uusi teema nimeltä \'Jaettu\' käytä sitä jatkossa muokataksesi värejä kaikissa sovelluksissa.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Osta <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> avataksesi ominaisuuden ja tukeaksesi kehitystä. Kiitos!
+            Osta <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> avataksesi ominaisuuden ja tukeaksesi kehitystä. Kiitos!
         ]]>
     </string>
     <string name="light_theme">Vaalea</string>
@@ -830,7 +830,7 @@
     <string name="donate_please">
         <![CDATA[
             Hei,<br><br>
-            toivottavasti pidät sovelluksesta. Se ei sisällä mainoksia, tue sen kehitystä ostamalla <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> sovellus, tämä myös estää tämän ilmoituksen jatkossa.<br><br>
+            toivottavasti pidät sovelluksesta. Se ei sisällä mainoksia, tue sen kehitystä ostamalla <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> sovellus, tämä myös estää tämän ilmoituksen jatkossa.<br><br>
             Kiitos!
         ]]>
     </string>
@@ -882,7 +882,6 @@
     <string name="before_asking_question">Ennen kuin esität kysymyksen, luethan ensin</string>
     <string name="faq_1_title_commons">Miksi en näe tämän sovelluksen pienoissovellusta pienoissovellusvalikossa?</string>
     <string name="faq_1_text_commons">Todennäköisesti asensit sovelluksen ulkoiselle muistikortille. Tässä tapauksessa ainoa vaihtoehto on uudelleenasentaa sovellus laitteen sisäiseen tallennustilaan.</string>
-    <string name="faq_2_title_commons">Haluan tukea sinua, mutta minulla ei ole varaa lahjoittaa. Voinko auttaa jotenkin muuten?</string>
     <string name="faq_3_title_commons">Poistin tiedostoja vahingossa, miten palautan ne?</string>
     <string name="faq_3_text_commons">Valitettavasti se ei ole mahdollista. Tiedostot poistetaan aina pysyvästi.</string>
     <string name="faq_4_title_commons">En pidä pienoissovelluksen väreistä, voinko vaihtaa ne?</string>
@@ -1049,7 +1048,7 @@
     <string name="june_short">Kes</string>
     <string name="july_short">Hei</string>
     <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+\nCopyright © Easy Apps %2$d</string>
     <string name="deletion_confirmation_short">Poistetaanko %s?</string>
     <string name="pin">PIN</string>
     <string name="add_password">Lisää salasana</string>

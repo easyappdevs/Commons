@@ -666,7 +666,7 @@
     <string name="donate">捐赠</string>
     <string name="follow_us">关注我们</string>
     <string name="copyright">v %1$s
-\n版权所有 © Fossify %2$d</string>
+\n版权所有 © Easy Apps %2$d</string>
     <string name="support">支持</string>
     <string name="help_us">帮助我们</string>
     <string name="social">社交网络</string>
@@ -681,7 +681,7 @@
     <string name="donate_please">
         <![CDATA[
             哈囉，<br><br>
-            希望您喜歡這個應用程式。它不包含廣告，所以請購買<a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> 以支持應用程式開發，這個對話框也不會再出現。<br><br>
+            希望您喜歡這個應用程式。它不包含廣告，所以請購買<a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> 以支持應用程式開發，這個對話框也不會再出現。<br><br>
             多謝！
         ]]>
     </string>
@@ -725,7 +725,6 @@
     <string name="before_asking_question">在提问之前，请先阅读</string>
     <string name="faq_1_title_commons">为什么我在应用小部件列表里没有找到这个应用的小部件？</string>
     <string name="faq_1_text_commons">这很可能是因为您将应用程序移动到了SD卡。由于 Android 系统的限制，在这种情况下会隐藏应用程序的小部件。 唯一的解决方法是在系统设置中将应用程序移回内部存储。</string>
-    <string name="faq_2_title_commons">我想支持您，但我不能捐赠金钱。 还有什么是我能够做的吗？</string>
     <string name="faq_3_title_commons">我该怎么恢复误删的文件？</string>
     <string name="faq_3_text_commons">不幸的是，您无法恢复。在确认对话框后文件将被立即删除，您并没有回收站用。</string>
     <string name="faq_4_title_commons">我不喜欢小部件的颜色，我可以修改吗？</string>

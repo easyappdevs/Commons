@@ -775,7 +775,7 @@
     <string name="additional_info">Extra informatie</string>
     <string name="app_version">Versie: %s</string>
     <string name="device_os">Besturingssysteem: %s</string>
-    <string name="donate_please">Hallo,&lt;br&gt;&lt;br&gt;Hopelijk vind je dit een fijne app. Het bevat geen advertenties, maar je kunt de verdere ontwikkeling wel ondersteunen door de app &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Bedankje&lt;/a&gt; aan te schaffen. Het voorkomt ook dat dit venster nog eens verschijnt.&lt;br&gt;&lt;br&gt; Dankjewel!</string>
+    <string name="donate_please">Hallo,&lt;br&gt;&lt;br&gt;Hopelijk vind je dit een fijne app. Het bevat geen advertenties, maar je kunt de verdere ontwikkeling wel ondersteunen door de app &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Easy Apps Bedankje&lt;/a&gt; aan te schaffen. Het voorkomt ook dat dit venster nog eens verschijnt.&lt;br&gt;&lt;br&gt; Dankjewel!</string>
     <string name="purchase">Kopen</string>
     <string name="before_asking_question_read_faq">Controleer bij problemen eerst de instellingen van de app en neem de Veelgestelde vragen door. Misschien staat de oplossing daar.</string>
     <string name="before_rate_read_faq">Controleer eerst de app-instellingen en lees de veelgestelde vragen voordat u ons beoordeelt. Als er problemen zijn, staat de oplossing misschien daar.</string>
@@ -827,7 +827,6 @@
     <string name="before_asking_question">Lees vóór het insturen van een vraag eerst de</string>
     <string name="faq_1_title_commons">Waarom zie ik de widget van deze app niet in de lijst met widgets?</string>
     <string name="faq_1_text_commons">Waarschijnlijk is de app verplaatst naar de SD-kaart. Android verbergt widgets van apps die zich bevinden op de SD-kaart. De enige oplossing is het verplaatsen van de app naar de Interne Opslag via de instellingen van Android.</string>
-    <string name="faq_2_title_commons">Ik wil een bijdrage leveren, maar ik kan geen geld doneren. Kan ik iets anders doen?</string>
     <string name="faq_2_text_commons">
         <![CDATA[
             Maar natuurlijk! Vertel anderen over deze apps of geef feedback en beoordelingen. Ook het vertalen van de apps in een nieuwe taal of het bijwerken van bestaande vertalingen wordt gewaardeerd.
@@ -976,15 +975,15 @@
     <string name="genre">Genre</string>
     <string name="camera">Camera</string>
     <string name="exif">EXIF</string>
-    <string name="apply_to_all_apps">Kleuren toepassen op alle Fossify apps</string>
-    <string name="shared_theme_note">Ook bij gebruik van de Pro-versie van deze app komt Fossify Bedankje nog van pas, omdat het de synchronisatie van het gemeenschappelijke thema verzorgt.</string>
-    <string name="purchase_thank_you">Overweeg om &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Bedankje&lt;/a&gt; aan te schaffen om deze functie te kunnen gebruiken en om verdere ontwikkeling te ondersteunen. Alvast bedankt!</string>
+    <string name="apply_to_all_apps">Kleuren toepassen op alle Easy Apps apps</string>
+    <string name="shared_theme_note">Ook bij gebruik van de Pro-versie van deze app komt Easy Apps Bedankje nog van pas, omdat het de synchronisatie van het gemeenschappelijke thema verzorgt.</string>
+    <string name="purchase_thank_you">Overweeg om &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Easy Apps Bedankje&lt;/a&gt; aan te schaffen om deze functie te kunnen gebruiken en om verdere ontwikkeling te ondersteunen. Alvast bedankt!</string>
     <string name="system_default">Systeeminstelling</string>
     <string name="show_line_numbers">Regelnummers tonen</string>
     <string name="hide_line_numbers">Regelnummers verbergen</string>
-    <string name="purchase_simple_thank_you">Fossify Bedankje aanschaffen</string>
-    <string name="donate_new">Hallo,&lt;br&gt;&lt;br&gt;Hopelijk gebruik je deze app met veel plezier. Het bevat geen advertenties en we verzamelen totaal geen gegevens. Je kunt de ontwikkeling ondersteunen door &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Bedankje&lt;/a&gt; aan te schaffen. Hiermee ontgrendel je alle functies in onze apps en kun je de kleuren voor alle apps tegelijk aanpassen.&lt;br&gt;&lt;br&gt;Dankjewel!</string>
-    <string name="donate_short">Ondersteun ons door de app &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Bedankje&lt;/a&gt; aan te schaffen. Dit zal alle functionaliteit in de apps ontgrendelen.</string>
-    <string name="update_thank_you">Update Fossify Bedankje naar de nieuwste versie</string>
+    <string name="purchase_simple_thank_you">Easy Apps Bedankje aanschaffen</string>
+    <string name="donate_new">Hallo,&lt;br&gt;&lt;br&gt;Hopelijk gebruik je deze app met veel plezier. Het bevat geen advertenties en we verzamelen totaal geen gegevens. Je kunt de ontwikkeling ondersteunen door &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Easy Apps Bedankje&lt;/a&gt; aan te schaffen. Hiermee ontgrendel je alle functies in onze apps en kun je de kleuren voor alle apps tegelijk aanpassen.&lt;br&gt;&lt;br&gt;Dankjewel!</string>
+    <string name="donate_short">Ondersteun ons door de app &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Easy Apps Bedankje&lt;/a&gt; aan te schaffen. Dit zal alle functionaliteit in de apps ontgrendelen.</string>
+    <string name="update_thank_you">Update Easy Apps Bedankje naar de nieuwste versie</string>
     <string name="app_icon_color_warning">Let op: Sommige launchers verwerken het aanpassen van het icoon mogelijk niet goed. Als het icoon verdwijnt, probeer dan de app te starten via Google Play, F-Droid of een widget. Herstel na het starten de groene standaardkleur #1A73E8. In extreme gevallen kan het zijn dat de app opnieuw geïnstalleerd moet worden.</string>
 </resources>

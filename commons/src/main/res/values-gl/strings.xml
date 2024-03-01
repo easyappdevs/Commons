@@ -809,7 +809,6 @@
     <string name="before_asking_question">Antes de facer unha pregunta, lea primeiro</string>
     <string name="faq_1_title_commons">Como é que non vexo este widget de aplicacións na lista de widgets\?</string>
     <string name="faq_1_text_commons">O máis probable é porque moveches a aplicación nunha tarxeta SD. Hai unha limitación do sistema Android que oculta os widgets da aplicación nese caso. A única solución é mover a aplicación de novo ao Almacenamento interno mediante a configuración do dispositivo.</string>
-    <string name="faq_2_title_commons">Quero apoialo, pero non podo doar cartos. Hai algo máis que podo facer\?</string>
     <string name="faq_3_title_commons">Borrei algúns ficheiros por erro, como podo recuperalos\?</string>
     <string name="faq_3_text_commons">Por desgraza, non podes. Os ficheiros elimínanse ao instante despois do diálogo de confirmación, non atoparas ningún lixo dispoñible.</string>
     <string name="faq_4_title_commons">Non me gustan as cores do widget, podo cambialas\?</string>

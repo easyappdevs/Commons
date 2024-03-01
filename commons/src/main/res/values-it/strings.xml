@@ -862,7 +862,7 @@
     <string name="donate_new">Ciao,&lt;br&gt;&lt;br&gt;spero che l\'app ti piaccia. Non contiene pubblicità e non raccogliamo nemmeno i tuoi dati, sostieni il suo sviluppo acquistando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Grazie Fossify&lt;/a&gt;. Avrai anche tutte le funzionalità dell\'app sbloccate, inclusa la personalizzazione del colore.&lt;br&gt;&lt;br&gt;Grazie!</string>
     <string name="donate_short">Per favore, sostienici acquistando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Grazie Fossify&lt;/a&gt;, sbloccherà anche tutte le funzionalità dell\'app, inclusa la personalizzazione del colore.</string>
     <string name="purchase">Acquista</string>
-    <string name="update_thank_you">Aggiorna Grazie Fossify alla versione più recente</string>
+    <string name="update_thank_you">Aggiorna Grazie Easy Apps alla versione più recente</string>
     <string name="before_asking_question_read_faq">Prima di fare una domanda, controlla le impostazioni dell\'app e le domande frequenti. Magari si trova la soluzione.</string>
     <string name="before_rate_read_faq">Prima di valutarci, controlla le impostazioni dell\'app e leggi le domande frequenti. Se riscontri problemi, la soluzione potrebbe trovarsi là.</string>
     <string name="make_sure_latest">Assicurati anche che tu stia usando la versione più recente dell\'app.</string>
@@ -913,8 +913,6 @@
     <string name="faq_1_title_commons">Come mai non vedo il widget di questa app nell\'elenco dei widget?</string>
     <string name="faq_1_text_commons">Probabilmente perchè si ha spostato l\'app nella scheda SD. C\'è una limitazione di sistema di Android che nasconde i widget in questione.
         L\'unica soluzione è spostare l\'app nell\'archiviazione interna usando le impostazioni di sistema.</string>
-    <string name="faq_2_title_commons">Vorrei darti supporto, ma non posso donare del denaro. Posso fare dell\'altro?</string>
-    <string name="faq_2_text_commons">Sì, certo. Puoi spargere la voce sulle app o fornire feedback e valutazioni positive. Puoi anche contribuire a tradurre le app in una nuova lingua o ad aggiornare alcune traduzioni esistenti. La guida alla traduzione è disponibile su &lt;a href=https://github.com/FossifyOrg/General-Discussion#how-can-i-suggest-an-edit-to-a-file&gt;questo sito&lt;/a&gt;, oppure contattaci all\'indirizzo &lt;a href=mailto:hey.easyapps@gmail.com&gt;hey.easyapps@gmail.com&lt;/a&gt; per qualsiasi domanda.</string>
     <string name="faq_3_title_commons">Ho eliminato dei file per errore, come posso recuperarli?</string>
     <string name="faq_3_text_commons">Purtroppo non si può. I file vengono eliminati subito dopo la richiesta di conferma, non c\'è nessun cestino disponibile.</string>
     <string name="faq_4_title_commons">Non mi piacciono i colori del widget, posso cambiarli?</string>
@@ -1110,7 +1108,7 @@
     <string name="notification_sound">Suono di notifica</string>
     <string name="january_short">Gen</string>
     <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+\nCopyright © Easy Apps %2$d</string>
     <string name="translation_english">Inglese</string>
     <string name="translation_hindi">Hindi</string>
     <string name="launcher_short">Launcher</string>

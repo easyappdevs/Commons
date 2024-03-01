@@ -779,7 +779,7 @@
     <string name="donate_please">
         <![CDATA[
             Olá,<br><br>
-            Esperamos que esteja gostando do app. Ele não contém anúncios, então apoie o desenvolvimento adquirindo o <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a>, ele também impede este diálogo de aparecer novamente.<br><br>
+            Esperamos que esteja gostando do app. Ele não contém anúncios, então apoie o desenvolvimento adquirindo o <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a>, ele também impede este diálogo de aparecer novamente.<br><br>
             Obrigado!
         ]]>
     </string>
@@ -832,7 +832,6 @@
     <string name="faq_1_title_commons">Por que não vejo o widget deste aplicativo na lista de widgets?</string>
     <string name="faq_1_text_commons">O mais provável é que você tenha movido o aplicativo para um cartão SD. Existe uma limitação do sistema Android que oculta os widgets de aplicativos fornecidos neste caso.
         A única solução é mover o aplicativo de volta para o Armazenamento Interno por meio das configurações do seu dispositivo.</string>
-    <string name="faq_2_title_commons">Eu gostaria de apoiá-los, mas não posso doar dinheiro. Há algo mais que eu possa fazer?</string>
     <string name="faq_3_title_commons">Eu exclui alguns arquivos por engano, como posso recuperá-los?</string>
     <string name="faq_3_text_commons">Infelizmente, você não pode. Os arquivos são apagados instantaneamente após a caixa de diálogo de confirmação, não há lixeira disponível.</string>
     <string name="faq_4_title_commons">Eu não gosto das cores do widget, posso mudá-las?</string>

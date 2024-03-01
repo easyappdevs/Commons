@@ -343,7 +343,7 @@
     <string name="share_colors_success">Uspješno ažurirane boje. Nova tema pod nazivom \'Shared\' je dodana, molimo koristite ju za ažuriranje svih boja u aplikaciji u budućnosti.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Molimo kupite <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> za otključavanje ove funkcije i podršku razvoju. Hvala!
+            Molimo kupite <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> za otključavanje ove funkcije i podršku razvoju. Hvala!
         ]]>
     </string>
     <string name="light_theme">Svijetla</string>
@@ -881,7 +881,7 @@
     <string name="donate_please">
         <![CDATA[
             Pozdrav,<br><br>
-            nadam se da uživate u aplikaciji. Ne sadrži reklame, zato nas podržite njen razvoj kupovinom <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> aplikacije, što će spriječiti da se ovaj prozor ponovno pojavljuje.<br><br>
+            nadam se da uživate u aplikaciji. Ne sadrži reklame, zato nas podržite njen razvoj kupovinom <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> aplikacije, što će spriječiti da se ovaj prozor ponovno pojavljuje.<br><br>
             Hvala Vam!
         ]]>
     </string>
@@ -929,7 +929,6 @@
     <string name="faq_1_title_commons">Zašto ne vidim widgete ove aplikacije u popisu widgeta\?</string>
     <string name="faq_1_text_commons">Najvjerojatnije zato jer ste premjestili aplikaciju na SD karticu. Postoji ograničenje Android sustava koje skriva dane widgete aplikacije u tom slučaju.
         Jedino je rješenje vratiti aplikaciju na internu pohranu putem postavki uređaja.</string>
-    <string name="faq_2_title_commons">Želim Vam pomoći, ali ne mogu donirati novac. Ima li još nešto što mogu učiniti?</string>
     <string name="faq_3_title_commons">Slučajno sam izbrisao/la neke datoteke. Kako ih mogu obnoviti\?</string>
     <string name="faq_3_text_commons">Nažalost, ne možete. Datoteke se brišu odmah nakon dijaloškog okvira za potvrdu, nema dostupnog koša za smeće.</string>
     <string name="faq_4_title_commons">Ne sviđa mi se boja widgeta, mogu li ih promijeniti?</string>

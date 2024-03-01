@@ -340,7 +340,7 @@
     <string name="share_colors_success">Colores actualizados correctamente. Se ha añadido un nuevo tema llamado \'Compartido\', por favor utilicelo para actualizar los colores de todas las aplicaciones en el futuro.</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            Por favor compra <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> para desbloquear esta función y ayudar al desarrollo. ¡Gracias!
+            Por favor compra <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> para desbloquear esta función y ayudar al desarrollo. ¡Gracias!
         ]]>
     </string>
     <string name="light_theme">Claro</string>
@@ -853,7 +853,7 @@
     <string name="donate">Donar</string>
     <string name="follow_us">Síguenos</string>
     <string name="copyright">v %1$s
-\nCopyright © Fossify %2$d</string>
+\nCopyright © Easy Apps %2$d</string>
     <string name="support">Soporte</string>
     <string name="help_us">Ayúdenos</string>
     <string name="other">Otro</string>
@@ -867,7 +867,7 @@
     <string name="donate_please">
         <![CDATA[
             Hola,<br><br>
-            Espero que estés disfrutando de la aplicación. No contiene anuncios, por lo que debe respaldar su desarrollo comprando la aplicación <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a>, también evitará que este diálogo vuelva a aparecer.<br><br>
+            Espero que estés disfrutando de la aplicación. No contiene anuncios, por lo que debe respaldar su desarrollo comprando la aplicación <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a>, también evitará que este diálogo vuelva a aparecer.<br><br>
             ¡Gracias!
         ]]>
     </string>
@@ -921,7 +921,6 @@
     <string name="faq_1_title_commons">¿Cómo es que no veo este widget de aplicaciones en la lista de widgets?</string>
     <string name="faq_1_text_commons">Lo más probable es que haya movido la aplicación en una tarjeta SD. Hay una limitación del sistema Android que oculta los widgets de la aplicación dada
         en ese caso. La única solución es volver a colocar la aplicación en el almacenamiento interno a través de la configuración de su dispositivo.</string>
-    <string name="faq_2_title_commons">Quiero apoyarte, pero no puedo donar dinero. ¿Hay algo mas que pueda hacer?</string>
     <string name="faq_2_text_commons">
         <![CDATA[
             Sí, por supuesto. Puede correr la voz sobre las aplicaciones o dar buenos comentarios y calificaciones. También puede ayudar traduciendo las aplicaciones a un nuevo idioma o simplemente actualizando algunas traducciones existentes.
@@ -1103,7 +1102,7 @@
     <string name="block_contact">Bloquear contacto</string>
     <string name="genre">Género</string>
     <string name="apply_to_all_apps">Aplicar los colores a todas las aplicaciones de Fossify</string>
-    <string name="shared_theme_note">Tenga en cuenta que aunque esté utilizando la versión Pro de la aplicación, sigue necesitando Gracias a Fossify por razones técnicas. Se encarga de la sincronización de colores.</string>
+    <string name="shared_theme_note">Tenga en cuenta que aunque esté utilizando la versión Pro de la aplicación, sigue necesitando Gracias a Easy Apps por razones técnicas. Se encarga de la sincronización de colores.</string>
     <string name="auto_theme">Automático</string>
     <string name="deletion_confirmation_short">¿Borrar %s?</string>
     <string name="no">No</string>
@@ -1116,7 +1115,7 @@
     <string name="hours_letter">h</string>
     <string name="week_number_short">semana</string>
     <string name="general_settings">General</string>
-    <string name="purchase_simple_thank_you">Comprar Fossify Thank You</string>
+    <string name="purchase_simple_thank_you">Comprar Easy Apps Thank You</string>
     <string name="notification_sound">Sonido de la notificación</string>
     <string name="widgets">Widgets</string>
     <string name="january_short">En.</string>
@@ -1133,9 +1132,9 @@
     <string name="saturday_letter">Dom.</string>
     <string name="website">Página web</string>
     <string name="social">Social</string>
-    <string name="donate_new">Hola,&lt;br&gt;&lt;br&gt;espero que estés disfrutando de la aplicación. No contiene anuncios y tampoco estamos recopilando tus datos, por favor apoya su desarrollo comprando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Thank You&lt;/a&gt;. También tendrás desbloqueadas todas las funciones de la aplicación, incluida la personalización del color.&lt;br&gt;&lt;br&gt;¡Gracias!</string>
-    <string name="update_thank_you">Por favor, actualice Fossify Thank You a la última versión</string>
-    <string name="donate_short">Apóyanos comprando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Thank You&lt;/a&gt; por favor, también desbloqueará todas las características de la app incluyendo la personalización de colores.</string>
-    <string name="features_locked">Esta función está bloqueada, por favor compre &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Fossify Thank You&lt;/a&gt; para desbloquear la aplicación completa.&lt;br&gt;&lt;br&gt;Es un pago único y si usted no está satisfecho, podemos reembolsarle.</string>
+    <string name="donate_new">Hola,&lt;br&gt;&lt;br&gt;espero que estés disfrutando de la aplicación. No contiene anuncios y tampoco estamos recopilando tus datos, por favor apoya su desarrollo comprando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Easy Apps Thank You&lt;/a&gt;. También tendrás desbloqueadas todas las funciones de la aplicación, incluida la personalización del color.&lt;br&gt;&lt;br&gt;¡Gracias!</string>
+    <string name="update_thank_you">Por favor, actualice Easy Apps Thank You a la última versión</string>
+    <string name="donate_short">Apóyanos comprando &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Easy Apps Thank You&lt;/a&gt; por favor, también desbloqueará todas las características de la app incluyendo la personalización de colores.</string>
+    <string name="features_locked">Esta función está bloqueada, por favor compre &lt;a href=https://play.google.com/store/apps/details?id=com.eadevs.thankyou&gt;Easy Apps Thank You&lt;/a&gt; para desbloquear la aplicación completa.&lt;br&gt;&lt;br&gt;Es un pago único y si usted no está satisfecho, podemos reembolsarle.</string>
     <string name="translation_bulgarian">Búlgaro</string>
 </resources>

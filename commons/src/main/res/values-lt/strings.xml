@@ -722,7 +722,7 @@
     <string name="donate">Paaukoti</string>
     <string name="follow_us">Sekite mus</string>
     <string name="copyright">v %1$s
-\nAutorių teisės © Fossify %2$d</string>
+\nAutorių teisės © Easy Apps %2$d</string>
     <string name="support">Palaikymas</string>
     <string name="help_us">Padėkite mums</string>
     <string name="social">Socialiniai tinklai</string>
@@ -775,7 +775,6 @@
     <string name="before_asking_question">Prieš užduodami klausimą, iš pradžių, perskaitykite</string>
     <string name="faq_1_title_commons">Kodėl valdiklių sąraše nematau šios programėlės valdiklio\?</string>
     <string name="faq_1_text_commons">Greičiausiai, taip yra dėl to, kad perkėlėte programėlę į SD kortelę. Yra „Android“ sistemos apribojimas, kuris tokiu atveju paslepia nurodytos programėlės valdiklius. Vienintelis sprendimas yra per įrenginio nustatymus perkelti programėlę atgal į vidinę atmintį.</string>
-    <string name="faq_2_title_commons">Aš noriu jus paremti, bet neturiu galimybės paaukoti pinigų. Ar yra kas nors, ką galiu padaryti\?</string>
     <string name="faq_3_title_commons">Aš per klaidą ištryniau keletą failų, kaip galiu juos atkurti\?</string>
     <string name="faq_3_text_commons">Deja, to padaryti negalite. Failai yra ištrinami iš karto po patvirtinimo dialogo, o šiukšlinė yra neprieinama.</string>
     <string name="faq_4_title_commons">Man nepatinka valdiklio spalvos, kaip galiu jas pakeisti\?</string>

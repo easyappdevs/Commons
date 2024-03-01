@@ -210,7 +210,7 @@
     <string name="share_colors_success">顏色更新成功。新增了一個名為 \'Shared\' 的新主題，以後請使用那個來更新全部應用程式顏色。</string>
     <string name="purchase_thank_you">
         <![CDATA[
-            請購買 <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> 來解鎖此功能及支持開發者。謝謝!
+            請購買 <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> 來解鎖此功能及支持開發者。謝謝!
         ]]>
     </string>
     <string name="light_theme">明亮主題</string>
@@ -582,7 +582,7 @@
     <string name="donate_please">
         <![CDATA[
             哈囉 <br><br>
-            希望您喜愛這應用程式。 它不含廣告，所以請購買應用程式 <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Fossify Thank You</a> 來支持開發者，這對話框也不會再出現。<br><br>
+            希望您喜愛這應用程式。 它不含廣告，所以請購買應用程式 <a href="https://play.google.com/store/apps/details?id=com.eadevs.thankyou">Easy Apps Thank You</a> 來支持開發者，這對話框也不會再出現。<br><br>
             感謝!
         ]]>
     </string>
@@ -627,7 +627,6 @@
     <string name="faq_1_title_commons">為什麼我在小工具列表中沒看到這應用程式的小工具?</string>
     <string name="faq_1_text_commons">這很可能是因為你把應用程式移動到SD卡。那樣的話，有個隱藏特定程式小工具的Android系統限制存在。
 	    只有一個解決方法，就是經由你的裝置設定，把應用程式移動回內部儲存空間。</string>
-    <string name="faq_2_title_commons">我想要支持您，但我無法捐款。還有什麼我能做的嗎?</string>
     <string name="faq_3_title_commons">我誤刪了一些檔案，如何復原?</string>
     <string name="faq_3_text_commons">不幸地，沒有辦法。檔案經確認後就立即刪除了，沒有垃圾筒可用。</string>
     <string name="faq_4_title_commons">我不喜歡小工具的顏色，我能更改嗎?</string>
