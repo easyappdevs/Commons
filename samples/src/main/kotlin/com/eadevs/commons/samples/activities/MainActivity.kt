@@ -100,7 +100,6 @@ class MainActivity : BaseSimpleActivity() {
         )
 
         if (!resources.getBoolean(com.eadevs.commons.R.bool.hide_google_relations)) {
-            faqItems.add(FAQItem(com.eadevs.commons.R.string.faq_2_title_commons, com.eadevs.commons.R.string.faq_2_text_commons))
             faqItems.add(FAQItem(com.eadevs.commons.R.string.faq_6_title_commons, com.eadevs.commons.R.string.faq_6_text_commons))
         }
 
